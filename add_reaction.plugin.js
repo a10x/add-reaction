@@ -1,7 +1,7 @@
 /**
  * @name AddReaction
  * @author a10x
- * @description The plugin adds a way to quickly react to existing reactions. [README.md]{@link https://github.com/a10x/add-reaction/blob/main/README.md} for more details.
+ * @description The plugin adds a way to quickly react to existing reactions. See https://github.com/a10x/add-reaction/blob/main/README.md for more details.
  * @version 0.0.1
  * @source https://github.com/a10x/add-reaction
  */

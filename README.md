@@ -15,3 +15,5 @@ Stricter version of ```+```. It only checks the last message and if there aren't
 
 ## Examples
 ```+```, ```+1```, ```++12```
+
+PS: Could prove to be useful for Mudae :)

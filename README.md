@@ -1,5 +1,5 @@
 # AddReaction
-The plugin essentially adds commands that you can type in the chat box to quickly react to existing reactions.
+A BetterDiscord plugin that essentially adds commands that you can type in the chat box to quickly react to existing reactions.
 
 ## How to use
 Similar to how you'd normally use bot commands, simply type the command in the chat box and press enter. If you want to skip a command, put a backslash(\\) just before it without any spaces.
